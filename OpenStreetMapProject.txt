@@ -1,0 +1,4 @@
+Map Area: Hong Kong (I live there)
+                                                
+https://www.openstreetmap.org/relation/913110#map=10/22.3527/114.1598
+https://s3.amazonaws.com/metro-extracts.mapzen.com/hong-kong_china.osm.bz2
